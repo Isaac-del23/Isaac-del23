@@ -1,0 +1,55 @@
+
+.Cabecalho_index{
+    background-color: darkgray;
+    
+}
+.cabecalhoPag1{
+    background-color: darkgray;
+}
+.cabecalhoPag2{
+    background-color: darkgray;
+}
+.cabecalho4{
+    background-color: darkgray;
+}
+p {
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+p > a{
+color: rgb(10, 64, 227);
+font-family: monospace;
+font-size: 15px;
+
+}
+
+
+
+blockquote {
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: 21px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+pre {
+    font-family: Futura;
+    font-size: 13px;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: 700;
+    line-height: 19.5px;
+}
+.textSegund{
+    align-self: start;
+}
+.textPri{
+    align-items: center;
+    text-align: justify;
+}
